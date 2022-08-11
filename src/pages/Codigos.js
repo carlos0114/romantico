@@ -24,8 +24,9 @@ function Codigos() {
       <br />   <h2>Pagina-4</h2>
       <div> 
       <a href="Codigos"><img src={Captura4} alt=""/></a>
-      </div>
-    </div>
+      </div><p>La institución está autorizada y supervisada por el Banco Central del Uruguay y por más información se puede acceder a www.bcu.gub.uy</p>
+    </div>  
+      
   );
 }
 

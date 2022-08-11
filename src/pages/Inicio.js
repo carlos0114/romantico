@@ -14,7 +14,7 @@ Pase por alguno de nuestros locales. <br />
 Contactese con nosotros: 2 309 11 68 (*) <br />
 Si usted quiere hacer alguna queja o comentario,
  dirija un mail a <h3>info@cambioromantico.com</h3> 
-   con gusto lo atenderemos,Gracias a la tecnología de punta que este servicio utiliza, su contraparte recibe el dinero a transferir en aproximadamente 15 minutos.
+   Con gusto lo atenderemos,Gracias a la tecnología de punta que este servicio utiliza, su contraparte recibe el dinero a transferir en aproximadamente 15 minutos.
 
 Dinero en sus manos en tan solo unos minutos.
 Una billetera vacía o peor aún, una billetera perdida, no tiene porqué arruinar su viaje.
@@ -23,7 +23,7 @@ Una billetera vacía o peor aún, una billetera perdida, no tiene porqué arruin
 Lo único que debe hacer es pedir a un amigo o pariente que lleve el dinero en efectivo requerido,
  el cargo por servicio a un agente de Western Union.
   La red de computadoras pondrá ese dinero a su disposición en cualquier agente de Western Union en pocos minutos.
-La institución está autorizada y supervisada por el Banco Central del Uruguay y por más información se puede acceder a www.bcu.gub.uy
+
  <br /> <h2>Banco Central del Uruguay </h2> Por más información se puede acceder a www.bcu.gub.uy
 </h4>
 
